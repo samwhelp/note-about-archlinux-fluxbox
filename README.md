@@ -4,8 +4,8 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Archlinux Fluxbox Adjustment](https://samwhelp.github.io/archlinux-jwm-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-jwm-adjustment) |
-| [Archlinux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-archlinux-jwm/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-jwm) |
+| [Archlinux Fluxbox Adjustment](https://samwhelp.github.io/archlinux-fluxbox-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-fluxbox-adjustment) |
+| [Archlinux Fluxbox 探索筆記](https://samwhelp.github.io/note-about-archlinux-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-fluxbox) |
 | [Archlinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 
 
@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | --- |
-| [Archlinux Fluxbox Config](https://github.com/samwhelp/archlinux-jwm-adjustment/tree/main/prototype/main/jwm-config/part/Main) |
+| [Archlinux Fluxbox Config](https://github.com/samwhelp/archlinux-fluxbox-adjustment/tree/main/prototype/main/fluxbox-config/part/Main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
@@ -33,10 +33,10 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Fluxbox 探索筆記](https://samwhelp.github.io/note-about-jwm/) | [GitHub](https://github.com/samwhelp/note-about-jwm) |
-| [Debian Fluxbox 探索筆記](https://samwhelp.github.io/note-about-debian-jwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-jwm) |
-| [Ubuntu Fluxbox 探索筆記](https://samwhelp.github.io/note-about-ubuntu-jwm/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-jwm) |
-| [Fedora Fluxbox 探索筆記](https://samwhelp.github.io/note-about-fedora-jwm/) | [GitHub](https://github.com/samwhelp/note-about-fedora-jwm) |
+| [Fluxbox 探索筆記](https://samwhelp.github.io/note-about-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-fluxbox) |
+| [Debian Fluxbox 探索筆記](https://samwhelp.github.io/note-about-debian-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-fluxbox) |
+| [Ubuntu Fluxbox 探索筆記](https://samwhelp.github.io/note-about-ubuntu-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-fluxbox) |
+| [Fedora Fluxbox 探索筆記](https://samwhelp.github.io/note-about-fedora-fluxbox/) | [GitHub](https://github.com/samwhelp/note-about-fedora-fluxbox) |
 
 
 
